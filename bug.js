@@ -1,0 +1,1 @@
+This bug occurs when using the Expo CLI to build an Android app.  The build process fails with an error related to the `gradlew` command not being found or permissions issues. This is often seen on systems with unusual configurations or those that haven't properly set up Android development environment variables.
